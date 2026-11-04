@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="traficlights/traficlights.vcxproj" Id="c19dc84b-8339-4fa7-bb92-641dfb531917" />
-</Solution>
